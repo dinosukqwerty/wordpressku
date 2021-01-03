@@ -1,0 +1,2 @@
+# wordpressku
+Qusq Lite Theme 
